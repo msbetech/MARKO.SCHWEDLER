@@ -2,6 +2,8 @@
 
 SAP Full-Stack Development & System-Integration
 
+**************************************************************************
+
 ### KUNDENNUTZEN
 
 Die kundenindividuelle Lösung von SAP-Anforderungen steht im Mittelpunkt.

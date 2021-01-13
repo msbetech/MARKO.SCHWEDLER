@@ -38,26 +38,10 @@ Das Management von nichtkalkulierbaren Risiken der Humankapitalisten steht hier 
 
 **************************************************************************
 
-### ÜBER MSBETECH.CONSULTING 
-- MSBETECH.CONSULTING versteht sich als Partner der Unternehmen, die die Digitalisierung konzeptionell und methodisch betrachten.
-- MSBETECH.CONSULTING verknüpft die Gedanken der Blue Ocean Strategy und dem Innovator’s Dilemma konzeptionell und systematisch mit der technischen Implementierung.
-- MSBETECH.CONSULTING bietet das AMSOD-Modell und  das PGS-Modell als Umsetzungsinstrumente der Digitalisierung an.
-
-**************************************************************************
-
 ### ÜBER
 Dr. Marko Schwedler studierte Wirtschaftswissenschaften und arbeitet seit 20 Jahren als SAP-Consultant.
 Er ist SAP Certified Development Professional und Project Management Professional (PMP).
 Seine wissenschaftlichen Interessen liegen auf den Gebieten der Digitalisierung und der Institutionenökonomik.
-
-**************************************************************************
-
-### LINKS
-- [Digitalisierung](https://digitalisierung.msbetech.com/)
-- [www.msbetech.com](https://www.msbetech.com)
-- [www.msbetech.consulting](https://www.msbetech.consulting)
-- [www.msbetech.systems](https://www.msbetech.systems)
-- [www.msbetech.technology](https://www.msbetech.technology)
 
 **************************************************************************
 

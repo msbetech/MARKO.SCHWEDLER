@@ -61,7 +61,7 @@ Seine wissenschaftlichen Interessen liegen auf den Gebieten der Digitalisierung 
 **************************************************************************
 
 ### KONTAKT
-marko.schwedler@msbetech.com
+[Marko.Schwedler](mailto:marko.schwedler@msbetech.com)
 
 **************************************************************************
 

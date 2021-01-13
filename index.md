@@ -53,6 +53,7 @@ Seine wissenschaftlichen Interessen liegen auf den Gebieten der Digitalisierung 
 **************************************************************************
 
 ### LINKS
+- [Digitalisierung](https://digitalisierung.msbetech.com/)
 - [www.msbetech.com](https://www.msbetech.com)
 - [www.msbetech.consulting](https://www.msbetech.consulting)
 - [www.msbetech.systems](https://www.msbetech.systems)

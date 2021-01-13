@@ -1,10 +1,11 @@
 ## Welcome to MARKO.SCHWEDLER
 
-SAP Full-Stack Development
+SAP Full-Stack Development & System-Integration
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Die kundenindividuelle Lösung von SAP-Anforderungen steht im Mittelpunkt.
+Die Basis dafür bilden ein tiefes Technikwissen, ein breites Methodenwissen und langjährige Umsetzungskompetenz.
 
 ```markdown
 Syntax highlighted code block

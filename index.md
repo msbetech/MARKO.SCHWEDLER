@@ -29,16 +29,12 @@ Das Management von nichtkalkulierbaren Risiken der Humankapitalisten steht hier 
 - SAP-Datenmigrationen
 - SAP Formulare mit SAPScript und Smartforms
 
-
 - Erstellung einer Digitalisierungsstrategie
 - Evaluierung der vorhanden Digitalisierungsstrategie
 - Optimierung Ihrer Digitalisierungsstrategie
 - Erstellung eines unternehmensspezifischen Technologieradars
 - Technologieevaluation
 - Optimierung des Technologieradars
-
-
-Mehr als die Hälfte der Projekte werden nicht innerhalb des magischen Dreiecks beendet. D.h. mit höheren Kosten als geplant, später als geplant oder mit einem geringeren Funktionsumfang als geplant. Angeboten wird ein Projekt-Governance-System als Instrument der Projektsteuerung. Es werden Institutionen, Anreizstrukturen und Sanktionen diskutiert, die eine verhaltenskanalisierende Funktion ausüben. Das Ziel der verhaltenskanalisierenden Steuerung ist eine Zielerreichung innerhalb des magischen Dreiecks.
 
 
 **MORE**
@@ -48,6 +44,7 @@ www.msbetech.systems
 www.msbetech.technology
 
 [Link](www.msbetech.technology)
+[msbetech.technology](www.msbetech.technology)
 
 1. Numbered
 2. List

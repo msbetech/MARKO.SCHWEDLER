@@ -36,8 +36,17 @@ Das Management von nichtkalkulierbaren Risiken der Humankapitalisten steht hier 
 - Technologieevaluation
 - Optimierung des Technologieradars
 
+**************************************************************************
 [Link](www.msbetech.technology)
 [msbetech.technology](https://www.msbetech.technology)
+
+(www.msbetech.technology)
+[msbetech.technology](https://www.msbetech.technology)
+
+[Link](www.msbetech.technology)
+[msbetech.technology](https://www.msbetech.technology)
+
+**************************************************************************
 
 ### ÜBER MSBETECH.CONSULTING 
 - MSBETECH.CONSULTING versteht sich als Partner der Unternehmen, die die Digitalisierung konzeptionell und methodisch betrachten.

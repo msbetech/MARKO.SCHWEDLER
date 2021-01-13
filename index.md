@@ -4,8 +4,6 @@ SAP Full-Stack Development & System-Integration
 
 **************************************************************************
 
-### KUNDENNUTZEN
-
 Die kundenindividuelle Lösung von SAP-Anforderungen steht im Mittelpunkt.
 Die Basis dafür bilden ein tiefes Technikwissen, ein breites Methodenwissen und langjährige Umsetzungskompetenz.
 

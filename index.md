@@ -19,8 +19,23 @@ Syntax highlighted code block
 ## Header 2 Full-Stack Development für die SAP-Logistik
 ### Header 3 Full-Stack Development für die SAP-Logistik
 
-- Bulleted
-- List
+- Projektleitung
+- Objektorientiertes ABAP-Development für die SAP-Logistik
+- IT-Architekturdesign
+- Ablösung von IT-Legacy-Systemen
+- System Integration
+- SAP-Schnittstellen
+- SAP-Webservices
+- SAP-Datenmigrationen
+- SAP Formulare mit SAPScript und Smartforms
+
+
+
+
+
+
+
+
 
 1. Numbered
 2. List

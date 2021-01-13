@@ -46,7 +46,7 @@ Das Management von nichtkalkulierbaren Risiken der Humankapitalisten steht hier 
 [Link](www.msbetech.technology)
 [msbetech.technology](https://www.msbetech.technology)
 
-[Link][msbetech.technology](https://www.msbetech.technology)
+[msbetech.technology](https://www.msbetech.technology)
 
 **************************************************************************
 

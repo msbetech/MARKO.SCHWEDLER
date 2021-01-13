@@ -14,7 +14,6 @@ Das Management von nichtkalkulierbaren Risiken der Humankapitalisten steht hier 
 
 **************************************************************************
 
-## LÖSUNGSPORTFOLIO
 ### Full-Stack Development für die SAP-Logistik
 
 - Projektleitung

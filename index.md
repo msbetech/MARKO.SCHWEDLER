@@ -20,7 +20,7 @@ Das Management von nichtkalkulierbaren Risiken der Humankapitalisten steht hier 
 ### Header 3 Full-Stack Development für die SAP-Logistik
 
 - Projektleitung
-- Objektorientiertes ABAP-Development für die SAP-Logistik
+- ABAP-OO für die SAP-Logistik
 - IT-Architekturdesign
 - Ablösung von IT-Legacy-Systemen
 - System Integration

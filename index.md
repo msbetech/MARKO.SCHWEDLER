@@ -12,6 +12,8 @@ Das innovative Analysemodell strategischer Optionen der Digitalisierung (AMSOD-M
 Das innovative Project-Governance System (PGS) innoviert in die Verhaltenskanalisation der Transaktionsakteure.
 Das Management von nichtkalkulierbaren Risiken der Humankapitalisten steht hier im Mittelpunkt der Analysen und Betrachtungen.
 
+**************************************************************************
+
 **LÖSUNGSPORTFOLIO**
 ### Full-Stack Development für die SAP-Logistik
 
@@ -33,29 +35,20 @@ Das Management von nichtkalkulierbaren Risiken der Humankapitalisten steht hier 
 - Optimierung des Technologieradars
 
 **************************************************************************
-[Link](www.msbetech.technology)
-[msbetech.technology](https://www.msbetech.technology)
-
-(www.msbetech.technology)
-[msbetech.technology](https://www.msbetech.technology)
-
-[Link](www.msbetech.technology)
-[msbetech.technology](https://www.msbetech.technology)
-
-[msbetech.technology](https://www.msbetech.technology)
-
-**************************************************************************
 
 ### ÜBER MSBETECH.CONSULTING 
 - MSBETECH.CONSULTING versteht sich als Partner der Unternehmen, die die Digitalisierung konzeptionell und methodisch betrachten.
 - MSBETECH.CONSULTING verknüpft die Gedanken der Blue Ocean Strategy und dem Innovator’s Dilemma konzeptionell und systematisch mit der technischen Implementierung.
 - MSBETECH.CONSULTING bietet das AMSOD-Modell und  das PGS-Modell als Umsetzungsinstrumente der Digitalisierung an.
 
+**************************************************************************
 
 ### ÜBER
 Dr. Marko Schwedler studierte Wirtschaftswissenschaften und arbeitet seit 20 Jahren als SAP-Consultant.
 Er ist SAP Certified Development Professional und Project Management Professional (PMP).
 Seine wissenschaftlichen Interessen liegen auf den Gebieten der Digitalisierung und der Institutionenökonomik.
+
+**************************************************************************
 
 ### LINKS
 - [www.msbetech.com](https://www.msbetech.com)
@@ -63,8 +56,10 @@ Seine wissenschaftlichen Interessen liegen auf den Gebieten der Digitalisierung 
 - [www.msbetech.systems](https://www.msbetech.systems)
 - [www.msbetech.technology](https://www.msbetech.technology)
 
+**************************************************************************
 
 ### KONTAKT
 marko.schwedler@msbetech.com
+**************************************************************************
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

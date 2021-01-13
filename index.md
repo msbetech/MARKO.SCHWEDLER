@@ -44,7 +44,15 @@ www.msbetech.systems
 www.msbetech.technology
 
 [Link](www.msbetech.technology)
-[msbetech.technology](www.msbetech.technology)
+[msbetech.technology](https://www.msbetech.technology)
+
+
+
+- MSBETECH.CONSULTING versteht sich als Partner der Unternehmen, die die Digitalisierung konzeptionell und methodisch betrachten.
+- MSBETECH.CONSULTING verknüpft die Gedanken der Blue Ocean Strategy und dem Innovator’s Dilemma konzeptionell und systematisch mit der technischen Implementierung.
+- MSBETECH.CONSULTING bietet das AMSOD-Modell und  das PGS-Modell als Umsetzungsinstrumente der Digitalisierung an.
+
+
 
 1. Numbered
 2. List

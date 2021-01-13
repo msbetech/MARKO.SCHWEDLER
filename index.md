@@ -9,6 +9,9 @@ Die Basis dafür bilden ein tiefes Technikwissen, ein breites Methodenwissen und
 
 Das innovative Analysemodell strategischer Optionen der Digitalisierung (AMSOD-Modell) zeichnet das konzeptionelle Hintergrundbild. Ein Ansatz, der auf die Implementierung von Digitalisierungsthemen fokussiert.
 
+Das innovative Project-Governance System (PGS) innoviert in die Verhaltenskanalisation der Transaktionsakteure.
+Das Management von nichtkalkulierbaren Risiken der Humankapitalisten steht hier im Mittelpunkt der Analysen und Betrachtungen.
+
 ```markdown
 Syntax highlighted code block
 

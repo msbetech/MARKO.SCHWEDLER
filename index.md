@@ -13,7 +13,7 @@ Das innovative Project-Governance System (PGS) innoviert in die Verhaltenskanali
 Das Management von nichtkalkulierbaren Risiken der Humankapitalisten steht hier im Mittelpunkt der Analysen und Betrachtungen.
 
 ```markdown
-Syntax highlighted code block
+**LÖSUNGSPORTFOLIO**
 
 # Header 1 Full-Stack Development für die SAP-Logistik
 ## Header 2 Full-Stack Development für die SAP-Logistik
@@ -30,10 +30,22 @@ Syntax highlighted code block
 - SAP Formulare mit SAPScript und Smartforms
 
 
+- Erstellung einer Digitalisierungsstrategie
+- Evaluierung der vorhanden Digitalisierungsstrategie
+- Optimierung Ihrer Digitalisierungsstrategie
+- Erstellung eines unternehmensspezifischen Technologieradars
+- Technologieevaluation
+- Optimierung des Technologieradars
 
 
+Mehr als die Hälfte der Projekte werden nicht innerhalb des magischen Dreiecks beendet. D.h. mit höheren Kosten als geplant, später als geplant oder mit einem geringeren Funktionsumfang als geplant. Angeboten wird ein Projekt-Governance-System als Instrument der Projektsteuerung. Es werden Institutionen, Anreizstrukturen und Sanktionen diskutiert, die eine verhaltenskanalisierende Funktion ausüben. Das Ziel der verhaltenskanalisierenden Steuerung ist eine Zielerreichung innerhalb des magischen Dreiecks.
 
 
+**MORE**
+www.msbetech.com
+www.msbetech.consulting
+www.msbetech.systems
+www.msbetech.technology
 
 
 

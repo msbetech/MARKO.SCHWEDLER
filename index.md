@@ -68,6 +68,15 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/msbetech/markoschwedler/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+
+- MSBETECH.CONSULTING versteht sich als Partner der Unternehmen, die die Digitalisierung konzeptionell und methodisch betrachten.
+- MSBETECH.CONSULTING verknüpft die Gedanken der Blue Ocean Strategy und dem Innovator’s Dilemma konzeptionell und systematisch mit der technischen Implementierung.
+- MSBETECH.CONSULTING bietet das AMSOD-Modell und  das PGS-Modell als Umsetzungsinstrumente der Digitalisierung an.
+
+
+### ÜBER Support or Contact
+Dr. Marko Schwedler studierte Wirtschaftswissenschaften und arbeitet seit 20 Jahren als SAP-Consultant.
+Er ist SAP Certified Development Professional und Project Management Professional (PMP).
+Seine wissenschaftlichen Interessen liegen auf den Gebieten der Digitalisierung und der Institutionenökonomik.
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

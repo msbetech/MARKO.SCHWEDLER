@@ -36,13 +36,6 @@ Das Management von nichtkalkulierbaren Risiken der Humankapitalisten steht hier 
 - Technologieevaluation
 - Optimierung des Technologieradars
 
-
-**MORE**
-www.msbetech.com
-www.msbetech.consulting
-www.msbetech.systems
-www.msbetech.technology
-
 [Link](www.msbetech.technology)
 [msbetech.technology](https://www.msbetech.technology)
 
@@ -71,8 +64,14 @@ Dr. Marko Schwedler studierte Wirtschaftswissenschaften und arbeitet seit 20 Jah
 Er ist SAP Certified Development Professional und Project Management Professional (PMP).
 Seine wissenschaftlichen Interessen liegen auf den Gebieten der Digitalisierung und der Institutionenökonomik.
 
-### KONTAKT
+### LINKS
 [www.msbetech.com](www.msbetech.com)
+[www.msbetech.consulting](www.msbetech.consulting)
+[www.msbetech.systems](www.msbetech.systems)
+[www.msbetech.technology](www.msbetech.technology)
+
+
+### KONTAKT
 marko.schwedler@msbetech.com
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

@@ -7,6 +7,8 @@ SAP Full-Stack Development & System-Integration
 Die kundenindividuelle Lösung von SAP-Anforderungen steht im Mittelpunkt.
 Die Basis dafür bilden ein tiefes Technikwissen, ein breites Methodenwissen und langjährige Umsetzungskompetenz.
 
+Das innovative Analysemodell strategischer Optionen der Digitalisierung (AMSOD-Modell) zeichnet das konzeptionelle Hintergrundbild. Ein Ansatz, der auf die Implementierung von Digitalisierungsthemen fokussiert.
+
 ```markdown
 Syntax highlighted code block
 

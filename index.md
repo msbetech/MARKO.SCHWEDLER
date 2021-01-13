@@ -2,7 +2,7 @@
 
 SAP Full-Stack Development & System-Integration
 
-### Markdown
+### KUNDENNUTZEN
 
 Die kundenindividuelle Lösung von SAP-Anforderungen steht im Mittelpunkt.
 Die Basis dafür bilden ein tiefes Technikwissen, ein breites Methodenwissen und langjährige Umsetzungskompetenz.
@@ -60,6 +60,7 @@ Seine wissenschaftlichen Interessen liegen auf den Gebieten der Digitalisierung 
 
 ### KONTAKT
 marko.schwedler@msbetech.com
+
 **************************************************************************
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+

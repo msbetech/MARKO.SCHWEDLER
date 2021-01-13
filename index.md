@@ -12,12 +12,8 @@ Das innovative Analysemodell strategischer Optionen der Digitalisierung (AMSOD-M
 Das innovative Project-Governance System (PGS) innoviert in die Verhaltenskanalisation der Transaktionsakteure.
 Das Management von nichtkalkulierbaren Risiken der Humankapitalisten steht hier im Mittelpunkt der Analysen und Betrachtungen.
 
-```markdown
 **LÖSUNGSPORTFOLIO**
-
-# Header 1 Full-Stack Development für die SAP-Logistik
-## Header 2 Full-Stack Development für die SAP-Logistik
-### Header 3 Full-Stack Development für die SAP-Logistik
+### Full-Stack Development für die SAP-Logistik
 
 - Projektleitung
 - ABAP-OO für die SAP-Logistik
@@ -62,10 +58,10 @@ Er ist SAP Certified Development Professional und Project Management Professiona
 Seine wissenschaftlichen Interessen liegen auf den Gebieten der Digitalisierung und der Institutionenökonomik.
 
 ### LINKS
-- [www.msbetech.com](www.msbetech.com)
-- [www.msbetech.consulting](www.msbetech.consulting)
-- [www.msbetech.systems](www.msbetech.systems)
-- [www.msbetech.technology](www.msbetech.technology)
+- [www.msbetech.com](https://www.msbetech.com)
+- [www.msbetech.consulting](https://www.msbetech.consulting)
+- [www.msbetech.systems](https://www.msbetech.systems)
+- [www.msbetech.technology](https://www.msbetech.technology)
 
 
 ### KONTAKT

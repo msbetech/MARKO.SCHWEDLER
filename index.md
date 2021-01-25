@@ -1,4 +1,4 @@
-## MSBETECH.CONSULTING SAP Full-Stack Development & System-Integration
+## SAP Full-Stack Development & System-Integration
 
 SAP Full-Stack Development & System-Integration
 

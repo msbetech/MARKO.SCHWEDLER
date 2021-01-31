@@ -14,7 +14,7 @@ Das Management von nichtkalkulierbaren Risiken der Humankapitalisten steht hier 
 
 **************************************************************************
 
-### Full-Stack Development für die SAP-Logistik
+### 
 
 - Projektleitung
 - ABAP-OO für die SAP-Logistik

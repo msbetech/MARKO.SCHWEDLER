@@ -1,6 +1,6 @@
-## SAP Full-Stack Development & System-Integration
+## SAP Full-Stack Development für die SAP-Logistik
 
-SAP Full-Stack Development & System-Integration
+Development & System-Integration
 
 **************************************************************************
 

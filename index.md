@@ -1,5 +1,5 @@
-## SAP Full-Stack Development für 
-## die SAP-Logistik
+# SAP Full-Stack Development 
+## für die SAP-Logistik
 
 Development & System-Integration
 
@@ -14,8 +14,6 @@ Das innovative Project-Governance System (PGS) innoviert in die Verhaltenskanali
 Das Management von nichtkalkulierbaren Risiken der Humankapitalisten steht hier im Mittelpunkt der Analysen und Betrachtungen.
 
 **************************************************************************
-
-### 
 
 - Projektleitung
 - ABAP-OO für die SAP-Logistik

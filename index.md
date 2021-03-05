@@ -28,6 +28,14 @@ Seine wissenschaftlichen Interessen liegen auf den Gebieten der Digitalisierung 
 - Technologieevaluation
 - Optimierung des Technologieradars
 
+### Ausbildung/Zertifizierungen
+- Studium der Betriebswirtschaftslehre
+- Promotion
+- Zertifizierung PMP Projektmanagement (PMP)
+- Zertifizierung SAP Certified Development Associate
+- Zertifizierung SAP Certified Development Professional
+
+
 **************************************************************************
 
 ### KONTAKT

@@ -28,6 +28,7 @@ Seine wissenschaftlichen Interessen liegen auf den Gebieten der Digitalisierung 
 - Technologieevaluation
 - Optimierung des Technologieradars
 
+**************************************************************************
 ### Ausbildung/Zertifizierungen
 - Studium der Betriebswirtschaftslehre
 - Promotion
@@ -35,6 +36,15 @@ Seine wissenschaftlichen Interessen liegen auf den Gebieten der Digitalisierung 
 - Zertifizierung SAP Certified Development Associate
 - Zertifizierung SAP Certified Development Professional
 
+**************************************************************************
+### Technologie-/Methoden-Kenntnisse
+- ABAP-OO
+- LSMW
+- SAPScript / Smartforms
+- SAP-Webservices / IDOC / ALE / OData
+- HTML5 + CSS + Bootstrap + JavaScript
+- UI5 + Node.js + MySQL
+- PMI / Scrum
 
 **************************************************************************
 

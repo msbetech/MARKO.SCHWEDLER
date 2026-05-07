@@ -55,13 +55,24 @@ Seine wissenschaftlichen Interessen liegen auf den Gebieten der Digitalisierung 
 **************************************************************************
 ### Auswahl realisierter SAP-Projekte 
 
-##Produkthierarchie Maschinenbauunternehmen 
+#### > Erstellung einer Masterlist in einem Maschinenbauunternehmen 
+Es wurde ein ABAP-Programm erstellt, mit der aus einer ALV-Liste per Knopfdruck die Lagerortsicht und die MRP-Daten für ein Material angelegt werden kann. "Excel in ALV". Für jeden Datensatz im ALV wurden die Funktionen create, update und delete realisiert. 
+
+#### > Anbindung einer Tablet-Lösung an SAP in einem Küchenunternehmen 
+Es wurden 12 SAP-Schnittstellen programmiert, mit denen Daten von einem Tablet in das SAP-System übertragen wurden: u.a. Auftragsanlage, Rechnungen. 
+„Besonders hervorzuheben ist der erfolgreiche Beitrag von Herrn Schwedler als Verantwortlicher für die SAP Entwicklung im Projekt SPR – Service Prozess Reengineering für den After Sales Service. Dabei ging es darum, eine wichtige Prozessschnittstelle zwischen SAP ERP und einem Drittsystem zu konzipieren und zu realisieren. Die Schnittstelle wurde auf Basis von Standard IDOC’s umgesetzt mit mehreren neuen ABAP-Programmen- Z-Transaktionen und Anpassungen der IDOC-Struktur.“ 
+
+#### > SE10-Transporte in einem Maschinenbauunternehmen 
+ABAP-Programmierung einer Anwendung zum vereinfachten und automatisierten Transport von SAP-Aufträgen in das Produktivsystem. Im Q-System können die Tester ein Flag (getestet) für den relevanten Transportauftrag setzen. Die SAP-Basis kann auf Knopfdruck die getesteten Transportaufträge in das P-System transportieren. 
+
+#### > Webservices für ein Online-Portal in einem Maschinenbauunternehmen 
+Es wurden mehrere SOAP-Webservices erstellt, die via Pull-Requests Daten an ein Online-Portal übermitteln. WS für den Auftragsanlage, Wareneingang, Bestandsabfragen, Warenbewegungen etc.
+
+#### > Produkthierarchie Maschinenbauunternehmen 
 Ziel war es, eine Lösung zu erstellen, mit der die bestehende Produkthierarchie geändert werden kann. Dazu wurden auf dem SAP-GUI zwei Tree-Controls erstellt, mit denen Produkte via Drag&Drop von der alten in die neue Produkthirarchie verschoben werden können. 
 
-##Produktionsglättung Küchenbauunternehmen 
+#### > Produktionsglättung Küchenbauunternehmen 
 ABAP-Programmierung für die automatische Produktionsglättung, um Produktionsspitzen zu reduzieren. Die Re-Terminierung wird auf Basis von veränderbaren Regeln durchgeführt
-
-
 
 
 ### KONTAKT

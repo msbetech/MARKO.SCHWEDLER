@@ -53,6 +53,16 @@ Seine wissenschaftlichen Interessen liegen auf den Gebieten der Digitalisierung 
 - SOLID
 
 **************************************************************************
+### Auswahl realisierter SAP-Projekte 
+
+##Produkthierarchie Maschinenbauunternehmen 
+Ziel war es, eine Lösung zu erstellen, mit der die bestehende Produkthierarchie geändert werden kann. Dazu wurden auf dem SAP-GUI zwei Tree-Controls erstellt, mit denen Produkte via Drag&Drop von der alten in die neue Produkthirarchie verschoben werden können. 
+
+##Produktionsglättung Küchenbauunternehmen 
+ABAP-Programmierung für die automatische Produktionsglättung, um Produktionsspitzen zu reduzieren. Die Re-Terminierung wird auf Basis von veränderbaren Regeln durchgeführt
+
+
+
 
 ### KONTAKT
 [Marko.Schwedler](mailto:marko.schwedler@msbetech.com)

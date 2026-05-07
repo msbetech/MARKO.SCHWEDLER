@@ -11,9 +11,9 @@ Seine wissenschaftlichen Interessen liegen auf den Gebieten der Digitalisierung 
 
 **************************************************************************
 ### Schwerpunkte
-•	SAP-Datenmigrationen Extern > SAP neu
-•	Beratung SAP-Logistik (MM, SD, PP, PM)
-•	RESTful-Programmierung für die SAP-Logistik
+- SAP-Datenmigrationen Extern > SAP neu
+- Beratung SAP-Logistik (MM, SD, PP, PM)
+- RESTful-Programmierung für die SAP-Logistik
 •	ABAP-OO Programmierung für die SAP-Logistik (MM, SD, PP, PM)
 •	System Integration SAP <> externe Systeme
 •	Transformation von GUI-Apps nach FIORI-Apps

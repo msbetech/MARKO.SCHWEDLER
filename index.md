@@ -74,7 +74,7 @@ Ziel war es, eine Lösung zu erstellen, mit der die bestehende Produkthierarchie
 #### > Produktionsglättung Küchenbauunternehmen 
 ABAP-Programmierung für die automatische Produktionsglättung, um Produktionsspitzen zu reduzieren. Die Re-Terminierung wird auf Basis von veränderbaren Regeln durchgeführt
 
-
+**************************************************************************
 ### KONTAKT
 [Marko.Schwedler](mailto:marko.schwedler@msbetech.com)
 
